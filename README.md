@@ -1,2 +1,2 @@
-# SQIT3073_A231
+# A231_SQIT3073
 Business Analytics Programming
