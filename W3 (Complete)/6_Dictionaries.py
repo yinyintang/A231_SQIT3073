@@ -1,3 +1,6 @@
+import os
+#window
+os.system('cls') 
 
 # Create a dictionary of student information
 student = {

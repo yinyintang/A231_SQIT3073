@@ -1,3 +1,7 @@
+import os
+#window
+os.system('cls') 
+
 # Create a list of numbers
 numbers = [1, 2, 3, 4, 5]
 

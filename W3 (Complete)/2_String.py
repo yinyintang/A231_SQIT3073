@@ -8,6 +8,9 @@ print(message)
 # Access individual characters in the string
 first_character = message[0]
 print("The first character is:", first_character)
+import os
+#window
+os.system('cls') 
 
 # Find the length of the string
 length = len(message)

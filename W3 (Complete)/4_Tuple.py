@@ -1,3 +1,7 @@
+import os
+#window
+os.system('cls') 
+
 # Create a tuple
 fruits = ("apple", "banana", "cherry", "date")
 

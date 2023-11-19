@@ -1,3 +1,7 @@
+import os
+#window
+os.system('cls') 
+
 # Get user input for integer and floating-point numbers
 a = float(input("Enter a number (a): "))
 b = float(input("Enter another number (b): "))

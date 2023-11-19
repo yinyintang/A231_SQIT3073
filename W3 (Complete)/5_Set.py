@@ -1,3 +1,12 @@
+#Sets are unordered collections of unique elements in Python. 
+#They are often used when you need to work with a collection of 
+#items where duplicates are not allowed, 
+#or when you need to perform set operations like union and intersection.
+
+import os 
+#window
+os.system('cls') 
+
 # Create a set
 fruits = {"apple", "banana", "cherry", "date"}
 
