@@ -1,5 +1,6 @@
 import os
-os.system('clr')
+
+os.system('cls')
 
 name=str(input("tell me your name: "))
 
