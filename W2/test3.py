@@ -1,3 +1,7 @@
+import os
+
+os.system('cls')
+
 word="more"
 
 i=0

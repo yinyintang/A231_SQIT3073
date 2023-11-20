@@ -7,9 +7,6 @@ fruits = ("apple", "banana", "cherry", "date")
 
 ( "a" , 1 , 2.3 , "b" )
 
-
-
-
 # Access elements by index
 first_fruit = fruits[0]
 second_fruit = fruits[1]
