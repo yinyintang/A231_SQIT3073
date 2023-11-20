@@ -1,10 +1,7 @@
+import os
 
-b =[]
+os.system('cls')
 
-while True:
-    a=str(input('type something:'))
-    b.append(a)
-    c=set(b)
-    d=list(c)
-    b=d
-    print(c)
+a = "string"
+a="tail"
+print(a[2])
