@@ -11,8 +11,8 @@ except:
         # Output an error message if both attempts fail
         print("Unable to clear the screen.")
 
-
 import pandas as pd
+
 
 # Get the current directory where the Python file is located
 current_directory = os.path.dirname(os.path.realpath(__file__))

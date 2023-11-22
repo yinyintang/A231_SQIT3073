@@ -1,3 +1,7 @@
+import os
+
+os.system ('cls')
+
 def rectangular_prism_volume(length, width, height):
     return length * width * height
 
