@@ -32,7 +32,7 @@ df = pd.DataFrame({
     'Subject': ['Math', 'Science', 'Math', 'History', 'Science']
 })
 
-# Save original DataFrame to CSV
+# Save original DataFrame to CSV 
 df.to_csv(os.path.join(main_folder, 'example_dataset_1.csv'), index=False)
 
 # Perform DataFrame manipulations and save them as CSV files in the subfolder
