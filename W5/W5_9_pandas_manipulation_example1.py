@@ -37,7 +37,7 @@ print("\nSorted DataFrame (by Age):")
 print(sorted_df)
 
 # 3. Aggregation: Calculate the average Grade
-average_grade = df['Grade'].mean()
+average_grade = df['Grade'].mean() #Can change calculation to min/max/std (for mean)  
 print(f"\nAverage Grade: {average_grade}")
 
 # 4. Adding a Column: Add a column to indicate pass/fail based on Grade

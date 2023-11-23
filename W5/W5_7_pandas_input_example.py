@@ -16,10 +16,13 @@ import pandas as pd
 import numpy as np
 
 # Using Lists
-data_list = [[1, 'Alice'], [2, 'Bob'], [3, 'Charlie']]
-df_list = pd.DataFrame(data_list, columns=['ID', 'Name'])
+a = [1, 'Alice']
+b = [2, 'Bob']
+
+data_list = [a,b] #If have a empty [ , 'Charlie'] 
+df_list = pd.DataFrame(data_list,columns=['a','b'])
 print("DataFrame from List:")
-print(df_list)
+print(df_list.head())
 
 # Using Dictionaries
 data_dict = {'ID': [1, 2, 3], 'Name': ['Alice', 'Bob', 'Charlie']}
