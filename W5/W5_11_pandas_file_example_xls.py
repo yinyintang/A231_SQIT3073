@@ -10,7 +10,7 @@ except:
     except:
         # Output an error message if both attempts fail
         print("Unable to clear the screen.")
-
+        
 
 import pandas as pd
 
